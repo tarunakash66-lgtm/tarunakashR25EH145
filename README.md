@@ -1,1 +1,1 @@
-# tarunakashR25EH145
+Hi, I’m Tarun Akash, a Computer Science Engineering student interested in programming, software development, and emerging technologies. This repository is created as part of my academic coursework and will contain my learning activities, practice work, and projects related to software development and version control.
